@@ -1,5 +1,5 @@
 title: Some title here
 description: A description here
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
